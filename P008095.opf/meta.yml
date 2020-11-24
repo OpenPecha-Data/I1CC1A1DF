@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6900
   title: འཚོ་བའི་རྒྱུན་ཤེས་མུ་ཏིག་དོ་ཤལ།
-  volume: ''
+  volume:
+    0dd898686cfa4a36b3960db0470f0008:
+      image_group_id: I3CN6902
+      title: Volume 1 of 'tsho ba'i rgyun shes mu tig do shal/
+      volume_number: 1
+      total_pages: 180
   author: ''
+ebook_metadata:
+  title: འཚོ་བའི་རྒྱུན་ཤེས་མུ་ཏིག་དོ་ཤལ།
+  author: ''
+  sku: P008095
+  cover: cover.jpg
+  layers:
+  - pagination
